@@ -1,6 +1,14 @@
-# bsides-cheltenham-2023-badge
+# bsides-cheltenham-2024-badge
 The UFO badge for BSIDES Cheltenham 2024!
 
+Lots of things in this repo:
+
+- eagle-files: all the stuff you need to tinker and modify the PCB
+- gerber-files.zip: the file you can upload to JLCPCB and order your own badge, as is
+- 3d_printed_case.stl: a cool little push fit case you can print
+- bsides-cheltenham-2024-badge.ino: the arduino code that powers the badge, which you can modify and flash via the SAO connector
+- ufo.svg: the original vector design for the badge
+- morse_code_instructional_booklet.pdf: the flyer we gave out on the day with the codes and instructions
 
 ## Bill Of Materials
 
